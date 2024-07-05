@@ -1,7 +1,7 @@
 # SIMPLE CALCULATOR
 
 ## Description:
-For my final project in the CS50 Introduction to Computer Science Course, I built a simple calculator using Python and Tkinter library for the GUI application. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division, along with additional functionalities like square and inverse.
+For my final project in the CS50 Introduction to Programming with Python, I built a simple calculator using Python and Tkinter library for the GUI application. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division, along with additional functionalities like square and inverse.
 
 ## Requirements:
 - Python 3.x
