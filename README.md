@@ -13,7 +13,7 @@ For my final project in the CS50 Introduction to Computer Science Course, I buil
 -  **Inverse Functionality:** Quickly find the reciprocal of any number with the press of a button.
 -  **Square Functionality:** The calculator also enables easy calculation of the square of a number
 
-## Error Handling
+## Error Handling:
 -  **Division by Zero:** The calculator also handles division by zero errors by detecting when the user attempts to divide any number by zero and providing an appropriate error message.
 -  **Decimal Handling:** Consecutive decimal dots after the whole number or placing decimal dots after the fraction part are not allowed. Additionally, the calculator ensures proper decimal placement to avoid confusion and inaccuracies in calculations.
 -  **Keyboard Input Disallowed:** To maintain accuracy and prevent input errors, the calculator disallows keyboard input and relies solely on the calculator keys for user interaction.
