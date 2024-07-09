@@ -20,4 +20,4 @@ For my final project in the CS50 Introduction to Programming with Python, I buil
 - **Incomplete Expression:** The calculator ensures that an expression is complete before evaluating it, preventing errors caused by incomplete input.
 
 ## Contribution:
-If you encounter any issues or have suggestions for improvement, feel free to contribute by submitting a pull request or opening an issue on our GitHub repository.
+If you encounter any issues or have suggestions for improvement, feel free to contribute by submitting a pull request or opening an issue on the GitHub repository.
